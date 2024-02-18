@@ -1,0 +1,20 @@
+{
+  "name": "pre-project",
+  "version": "1.0.0",
+  "description": "This is pre-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinat-B/pre-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinat-B/pre-project/issues"
+  },
+  "homepage": "https://github.com/Rinat-B/pre-project#readme"
+}
